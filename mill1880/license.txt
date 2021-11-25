@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mill1880
+* source:	https://sketchfab.com/3d-models/mill1880-06d8fc8038a64463bf59c70f70810ab7
+* author:	KavitaMistry (https://sketchfab.com/KavitaMistry)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mill1880" (https://sketchfab.com/3d-models/mill1880-06d8fc8038a64463bf59c70f70810ab7) by KavitaMistry (https://sketchfab.com/KavitaMistry) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
