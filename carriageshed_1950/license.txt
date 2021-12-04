@@ -1,0 +1,11 @@
+Model Information:
+* title:	CarriageShed_1950
+* source:	https://sketchfab.com/3d-models/carriageshed-1950-65276888f2e649febd812cf875a5eaa6
+* author:	KaviMistry21 (https://sketchfab.com/KaviMistry21)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CarriageShed_1950" (https://sketchfab.com/3d-models/carriageshed-1950-65276888f2e649febd812cf875a5eaa6) by KaviMistry21 (https://sketchfab.com/KaviMistry21) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
